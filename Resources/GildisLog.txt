@@ -1,0 +1,375 @@
+[Sun Apr 16 17:06:00 2006] Logging to 'eqlog.txt' is now *ON*.
+[Sun Apr 16 17:06:02 2006] Keba`s warder begins to cast a spell. <Savage Blessing Strike>
+[Sun Apr 16 17:06:02 2006] A frenzied Ragepaw is shocked by savage poison.
+[Wed May 03 20:57:11 2006] Logging to 'eqlog.txt' is now *ON*.
+[Wed May 03 20:57:17 2006] Players on EverQuest:
+[Wed May 03 20:57:17 2006] ---------------------------
+[Wed May 03 20:57:17 2006] [ANONYMOUS] Gildis  <Ancient Dawn>
+[Wed May 03 20:57:17 2006] There is 1 player in Wall of Slaughter.
+[Wed May 03 20:57:20 2006] Game Time: Sunday, December 15, 3220 - 4 AM
+[Wed May 03 20:57:20 2006] Earth Time: Wednesday, May 03, 2006 20:57:20
+[Mon Jan 15 21:09:10 2007] Logging to 'eqlog.txt' is now *ON*.
+[Mon Jan 15 21:09:12 2007] Lemos tells adoffice:2, 'we're rdy'
+[Mon Jan 15 21:09:14 2007] Salvation tells the guild, 'kill it eyt?'
+[Mon Jan 15 21:09:15 2007] Lemos tells adoffice:2, 'just go'
+[Mon Jan 15 21:09:20 2007] Bungal shouts, 'Pull SZ '
+[Mon Jan 15 21:09:21 2007] Lemos tells the guild, 'pulling now'
+[Mon Jan 15 21:09:32 2007] You begin casting Aura of Eternity.
+[Mon Jan 15 21:09:32 2007] Your Irestone of Sharp Sight begins to glow.
+[Mon Jan 15 21:09:34 2007] Your mind develops a heightened focus.
+[Mon Jan 15 21:09:39 2007] Finron tells you, 'i log everything'
+[Mon Jan 15 21:09:42 2007] Finron tells you, 'it's never off'
+[Mon Jan 15 21:09:50 2007] You told Finron, 'okies =)'
+[Mon Jan 15 21:09:51 2007] Lemos tells the raid,  'warn if adds get to raid'
+[Mon Jan 15 21:09:57 2007] Archiba tells the raid,  'INC - --[ Sullon Zek, Mistress of Rage ]-- - INC                                                                                                                                                                                                                                     '
+[Mon Jan 15 21:10:01 2007] Woodshot tells the guild, 'hey'
+[Mon Jan 15 21:10:07 2007] Pagarbuk tells the guild, '/salute'
+[Mon Jan 15 21:10:07 2007] Quadeliya tells the guild, 'Hey Woody'
+[Mon Jan 15 21:10:11 2007] Neain tells the guild, 'hey woody'
+[Mon Jan 15 21:10:12 2007] Woodshot tells the guild, 'lfg'
+[Mon Jan 15 21:10:14 2007] Nalila tells the guild, 'hiya wood'
+[Mon Jan 15 21:10:15 2007] Lorelin tells the guild, 'hiya'
+[Mon Jan 15 21:10:16 2007] Triksi bonks Moukie on the head!
+[Mon Jan 15 21:10:18 2007] Triksi says, 'big Moukie'
+[Mon Jan 15 21:10:21 2007] Moukie bites Triksi on the leg!
+[Mon Jan 15 21:10:23 2007] Archiba tells the raid,  'INC - --[ Sullon Zek, Mistress of Rage ]-- - INC                                                                                                                                                                                                                                     '
+[Mon Jan 15 21:10:25 2007] Flaeske says, 'Hail, Sullon Zek, Mistress of Rage'
+[Mon Jan 15 21:10:33 2007] Moukie tells the raid,  'Sullon Zek, Mistress of Rage is malis rk 2'
+[Mon Jan 15 21:10:35 2007] Triksi tells the raid,  'Sullon Zek, Mistress of Rage tashed'
+[Mon Jan 15 21:10:35 2007] Moukie tells the guild, 'Sullon Zek, Mistress of Rage is malis rk 2'
+[Mon Jan 15 21:10:36 2007] You shout, 'BURN BURN BURN Sullon Zek, Mistress of Rage'
+[Mon Jan 15 21:10:38 2007] Chaitra tells the raid,  '**MALOSINISE** -----> Sullon Zek, Mistress of Rage the NPC  ---> nuke with MAGIC based'
+[Mon Jan 15 21:10:39 2007] You shout, 'BURN BURN BURN Sullon Zek, Mistress of Rage'
+[Mon Jan 15 21:10:39 2007] Quadeliya tells the raid,  'Malosinise on >> Sullon Zek, Mistress of Rage << she's a silly NPC'
+[Mon Jan 15 21:10:41 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:41 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:41 2007] You begin casting Ashengate Pyre Rk. II.
+[Mon Jan 15 21:10:41 2007] Moukie tells the guild, 'Sullon Zek, Mistress of Rage is slowed.'
+[Mon Jan 15 21:10:41 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:41 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:43 2007] Sullon Zek, Mistress of Rage's body is consumed in a pyre of Ashengate's cinders.
+[Mon Jan 15 21:10:43 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:10:43 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:10:43 2007] Moukie tells the raid,  'Sullon Zek, Mistress of Rage slowed'
+[Mon Jan 15 21:10:44 2007] Sullon Zek, Mistress of Rage has taken 3310 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:10:44 2007] You begin casting Death Peace.
+[Mon Jan 15 21:10:46 2007] Oberyom tells the raid,  'cxxx|::: TASH2 :::> Sullon Zek, Mistress of Rage!'
+[Mon Jan 15 21:10:47 2007] Sullon Zek, Mistress of Rage goes on a RAMPAGE!
+[Mon Jan 15 21:10:47 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:47 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:47 2007] You begin casting Dread Pyre.
+[Mon Jan 15 21:10:47 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:48 2007] Triksi tells the raid,  'Sullon Zek, Mistress of Rage crippled'
+[Mon Jan 15 21:10:49 2007] Sullon Zek, Mistress of Rage's body is consumed in a burning pyre of blood.
+[Mon Jan 15 21:10:49 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:10:49 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:10:50 2007] Sullon Zek, Mistress of Rage has taken 3068 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:10:50 2007] Sullon Zek, Mistress of Rage has taken 1557 damage from your Dread Pyre.
+[Mon Jan 15 21:10:50 2007] You begin casting Death Peace.
+[Mon Jan 15 21:10:52 2007] The mystical power fades.
+[Mon Jan 15 21:10:53 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:53 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:53 2007] You begin casting Pyre of Mori.
+[Mon Jan 15 21:10:53 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:54 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:54 2007] The magical orbs fade.
+[Mon Jan 15 21:10:55 2007] Pholghara tells the raid,  '<< Sullon Zek, Mistress of Rage >> necro debuffed (poison, desease)- RK. II'
+[Mon Jan 15 21:10:56 2007] Sullon Zek, Mistress of Rage's body is enveloped in the pyre of Mori.
+[Mon Jan 15 21:10:56 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:10:56 2007] Sullon Zek, Mistress of Rage has taken 1706 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:10:56 2007] Sullon Zek, Mistress of Rage has taken 3056 damage from your Dread Pyre.
+[Mon Jan 15 21:10:56 2007] Sullon Zek, Mistress of Rage has taken 1752 damage from your Pyre of Mori.
+[Mon Jan 15 21:10:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:58 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:58 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:58 2007] The war march fades.
+[Mon Jan 15 21:10:58 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:58 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:59 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:59 2007] You begin casting Night Fire.
+[Mon Jan 15 21:10:59 2007] You haven't recovered yet...
+[Mon Jan 15 21:10:59 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:00 2007] Neain tells the raid,  'Epic On (( Sullon Zek, Mistress of Rage )) Burn it down'
+[Mon Jan 15 21:11:00 2007] Sullon Zek, Mistress of Rage goes on a RAMPAGE!
+[Mon Jan 15 21:11:01 2007] Sullon Zek, Mistress of Rage's blood boils through their skin.
+[Mon Jan 15 21:11:01 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:11:02 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:02 2007] Sullon Zek, Mistress of Rage has taken 1898 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:02 2007] Sullon Zek, Mistress of Rage has taken 2962 damage from your Dread Pyre.
+[Mon Jan 15 21:11:02 2007] Sullon Zek, Mistress of Rage has taken 2054 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:02 2007] Sullon Zek, Mistress of Rage has taken 341 damage from your Night Fire.
+[Mon Jan 15 21:11:05 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:05 2007] You begin casting Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:05 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:06 2007] The mystical power fades.
+[Mon Jan 15 21:11:07 2007] Sullon Zek, Mistress of Rage is enveloped in a funeral pyre.
+[Mon Jan 15 21:11:07 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:11:07 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:11:08 2007] Sullon Zek, Mistress of Rage has taken 2592 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:08 2007] Sullon Zek, Mistress of Rage has taken 2122 damage from your Dread Pyre.
+[Mon Jan 15 21:11:08 2007] Sullon Zek, Mistress of Rage has taken 620 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:08 2007] Sullon Zek, Mistress of Rage has taken 1010 damage from your Night Fire.
+[Mon Jan 15 21:11:08 2007] Sullon Zek, Mistress of Rage has taken 930 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:09 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:12 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:13 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:13 2007] You begin casting Drain Life.
+[Mon Jan 15 21:11:13 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:13 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:14 2007] Sullon Zek, Mistress of Rage has taken 1787 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:14 2007] Your Ashengate Pyre Rk. II spell has worn off of Sullon Zek, Mistress of Rage.
+[Mon Jan 15 21:11:14 2007] Sullon Zek, Mistress of Rage has taken 1901 damage from your Dread Pyre.
+[Mon Jan 15 21:11:14 2007] Sullon Zek, Mistress of Rage has taken 2154 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:14 2007] Sullon Zek, Mistress of Rage has taken 428 damage from your Night Fire.
+[Mon Jan 15 21:11:14 2007] Sullon Zek, Mistress of Rage has taken 626 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:15 2007] Gildis hit Sullon Zek, Mistress of Rage for 1670 points of non-melee damage.
+[Mon Jan 15 21:11:15 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:11:15 2007] You perform an exceptional heal! (3340)
+[Mon Jan 15 21:11:15 2007] Gildis hit Sullon Zek, Mistress of Rage for 279 points of non-melee damage.
+[Mon Jan 15 21:11:15 2007] You deliver a critical blast! (279)
+[Mon Jan 15 21:11:16 2007] You can't use that command right now...
+[Mon Jan 15 21:11:16 2007] You can't use that command right now...
+[Mon Jan 15 21:11:16 2007] You begin casting Soulspike.
+[Mon Jan 15 21:11:16 2007] Your Mark of the Grave Finder begins to glow.
+[Mon Jan 15 21:11:17 2007] Gildis hit Sullon Zek, Mistress of Rage for 1204 points of non-melee damage.
+[Mon Jan 15 21:11:17 2007] Sullon Zek, Mistress of Rage staggers as a shadow pierces their soul.
+[Mon Jan 15 21:11:18 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:18 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:18 2007] You begin casting Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:18 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:18 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:20 2007] Sullon Zek, Mistress of Rage has taken 1672 damage from your Dread Pyre.
+[Mon Jan 15 21:11:20 2007] Sullon Zek, Mistress of Rage has taken 1752 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:20 2007] Sullon Zek, Mistress of Rage has taken 475 damage from your Night Fire.
+[Mon Jan 15 21:11:20 2007] Sullon Zek, Mistress of Rage has taken 325 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:20 2007] Sullon Zek, Mistress of Rage's body is consumed in a pyre of Ashengate's cinders.
+[Mon Jan 15 21:11:20 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:11:20 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:11:21 2007] Balrizangor tells the raid,  'ranger atk etc omg p'
+[Mon Jan 15 21:11:21 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:23 2007] Kallista has fallen to the ground.
+[Mon Jan 15 21:11:24 2007] You can't use that command right now...
+[Mon Jan 15 21:11:24 2007] Sullon Zek, Mistress of Rage begins to cast a spell.
+[Mon Jan 15 21:11:24 2007] Sullon Zek, Mistress of Rage begins to cast a spell.
+[Mon Jan 15 21:11:24 2007] Sullon Zek, Mistress of Rage begins to cast a spell.
+[Mon Jan 15 21:11:24 2007] Sullon Zek, Mistress of Rage begins to cast a spell.
+[Mon Jan 15 21:11:24 2007] You can't use that command right now...
+[Mon Jan 15 21:11:24 2007] You begin casting Guardian of Blood.
+[Mon Jan 15 21:11:24 2007] Your Deathwhisper begins to glow.
+[Mon Jan 15 21:11:25 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:26 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:26 2007] You begin casting Dread Pyre.
+[Mon Jan 15 21:11:26 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:26 2007] Sullon Zek, Mistress of Rage has taken 3656 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:26 2007] Sullon Zek, Mistress of Rage has taken 1548 damage from your Dread Pyre.
+[Mon Jan 15 21:11:26 2007] Sullon Zek, Mistress of Rage has taken 1098 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:26 2007] Sullon Zek, Mistress of Rage has taken 458 damage from your Night Fire.
+[Mon Jan 15 21:11:26 2007] Sullon Zek, Mistress of Rage has taken 972 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:26 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:28 2007] Sullon Zek, Mistress of Rage's body is consumed in a burning pyre of blood.
+[Mon Jan 15 21:11:28 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:11:28 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:11:29 2007] Gildis`s pet begins to cast a spell. <Guardian of Blood Strike>
+[Mon Jan 15 21:11:29 2007] Gildis`s pet's body fills with energy.
+[Mon Jan 15 21:11:29 2007] Your body fills with energy.
+[Mon Jan 15 21:11:29 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:31 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 200 points of damage.
+[Mon Jan 15 21:11:32 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:32 2007] Sullon Zek, Mistress of Rage has taken 1838 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:32 2007] Sullon Zek, Mistress of Rage has taken 2026 damage from your Dread Pyre.
+[Mon Jan 15 21:11:32 2007] Sullon Zek, Mistress of Rage has taken 985 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:32 2007] Sullon Zek, Mistress of Rage has taken 522 damage from your Night Fire.
+[Mon Jan 15 21:11:32 2007] Sullon Zek, Mistress of Rage has taken 399 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:32 2007] You begin casting Drain Life.
+[Mon Jan 15 21:11:32 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:32 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:32 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:33 2007] Gildis`s pet kicks Sullon Zek, Mistress of Rage for 55 points of damage.
+[Mon Jan 15 21:11:34 2007] Lemos tells the guild, 'got dot'
+[Mon Jan 15 21:11:34 2007] Gildis hit Sullon Zek, Mistress of Rage for 3903 points of non-melee damage.
+[Mon Jan 15 21:11:34 2007] You deliver a critical blast! (3903)
+[Mon Jan 15 21:11:34 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:11:34 2007] Your target resisted the Arcane Aria Effect spell.
+[Mon Jan 15 21:11:35 2007] The mystical power fades.
+[Mon Jan 15 21:11:35 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:35 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 117 points of damage.
+[Mon Jan 15 21:11:35 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 52 points of damage.
+[Mon Jan 15 21:11:36 2007] The magical orbs fade.
+[Mon Jan 15 21:11:38 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 52 points of damage.
+[Mon Jan 15 21:11:38 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 95 points of damage.
+[Mon Jan 15 21:11:38 2007] Sullon Zek, Mistress of Rage has taken 3392 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:38 2007] Sullon Zek, Mistress of Rage has taken 1978 damage from your Dread Pyre.
+[Mon Jan 15 21:11:38 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:38 2007] Sullon Zek, Mistress of Rage has taken 2204 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:38 2007] Sullon Zek, Mistress of Rage has taken 1004 damage from your Night Fire.
+[Mon Jan 15 21:11:38 2007] Sullon Zek, Mistress of Rage has taken 523 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:38 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:38 2007] You begin casting Drain Life.
+[Mon Jan 15 21:11:40 2007] Your instincts are sharpened by the auspice of the hunter.
+[Mon Jan 15 21:11:40 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 128 points of damage.
+[Mon Jan 15 21:11:40 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 152 points of damage.
+[Mon Jan 15 21:11:40 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 207 points of damage.
+[Mon Jan 15 21:11:40 2007] Gildis`s pet begins to cast a spell. <Guardian of Blood Strike>
+[Mon Jan 15 21:11:40 2007] Gildis`s pet's body fills with energy.
+[Mon Jan 15 21:11:40 2007] Your body fills with energy.
+[Mon Jan 15 21:11:41 2007] You regain your concentration and continue your casting.
+[Mon Jan 15 21:11:41 2007] Gildis hit Sullon Zek, Mistress of Rage for 4451 points of non-melee damage.
+[Mon Jan 15 21:11:41 2007] You deliver a critical blast! (4451)
+[Mon Jan 15 21:11:41 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:11:41 2007] Your target resisted the Arcane Aria Effect spell.
+[Mon Jan 15 21:11:42 2007] Chaengmoon tells the guild, 'go hide;p'
+[Mon Jan 15 21:11:42 2007] Lemos tells the guild, 'so no aefurious etc'
+[Mon Jan 15 21:11:42 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:42 2007] The war march fades.
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:43 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:44 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:44 2007] You begin casting Drain Life.
+[Mon Jan 15 21:11:44 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:44 2007] Sullon Zek, Mistress of Rage has taken 1888 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:44 2007] Sullon Zek, Mistress of Rage has taken 3440 damage from your Dread Pyre.
+[Mon Jan 15 21:11:44 2007] Sullon Zek, Mistress of Rage has taken 1056 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:44 2007] Sullon Zek, Mistress of Rage has taken 428 damage from your Night Fire.
+[Mon Jan 15 21:11:44 2007] Sullon Zek, Mistress of Rage has taken 511 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:45 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 167 points of damage.
+[Mon Jan 15 21:11:45 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 124 points of damage.
+[Mon Jan 15 21:11:45 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 213 points of damage.
+[Mon Jan 15 21:11:46 2007] Gildis hit Sullon Zek, Mistress of Rage for 2483 points of non-melee damage.
+[Mon Jan 15 21:11:46 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:11:46 2007] You perform an exceptional heal! (4966)
+[Mon Jan 15 21:11:46 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:11:47 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:47 2007] Sullon Zek, Mistress of Rage goes on a RAMPAGE!
+[Mon Jan 15 21:11:47 2007] You can use the ability Death Peace again in 0 minute(s) 5 seconds.
+[Mon Jan 15 21:11:47 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 67 points of damage.
+[Mon Jan 15 21:11:47 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 103 points of damage.
+[Mon Jan 15 21:11:47 2007] You can use the ability Death Peace again in 0 minute(s) 5 seconds.
+[Mon Jan 15 21:11:49 2007] The draconic spirit fades.
+[Mon Jan 15 21:11:49 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 81 points of damage.
+[Mon Jan 15 21:11:49 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 110 points of damage.
+[Mon Jan 15 21:11:49 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 160 points of damage.
+[Mon Jan 15 21:11:50 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:50 2007] Lemos tells the guild, 'only 2 people here'
+[Mon Jan 15 21:11:50 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:50 2007] You begin casting Drain Life.
+[Mon Jan 15 21:11:50 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:50 2007] Sullon Zek, Mistress of Rage has taken 1595 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:50 2007] Sullon Zek, Mistress of Rage has taken 1729 damage from your Dread Pyre.
+[Mon Jan 15 21:11:50 2007] Sullon Zek, Mistress of Rage has taken 1002 damage from your Pyre of Mori.
+[Mon Jan 15 21:11:50 2007] Your Pyre of Mori spell has worn off of Sullon Zek, Mistress of Rage.
+[Mon Jan 15 21:11:50 2007] Sullon Zek, Mistress of Rage has taken 395 damage from your Night Fire.
+[Mon Jan 15 21:11:50 2007] Sullon Zek, Mistress of Rage has taken 1046 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:50 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:50 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:51 2007] Gildis`s pet begins to cast a spell. <Guardian of Blood Strike>
+[Mon Jan 15 21:11:51 2007] Gildis`s pet's body fills with energy.
+[Mon Jan 15 21:11:51 2007] Your body fills with energy.
+[Mon Jan 15 21:11:51 2007] Sullon Zek, Mistress of Rage goes on a RAMPAGE!
+[Mon Jan 15 21:11:52 2007] Gildis hit Sullon Zek, Mistress of Rage for 2167 points of non-melee damage.
+[Mon Jan 15 21:11:52 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:11:52 2007] You perform an exceptional heal! (4334)
+[Mon Jan 15 21:11:52 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:11:53 2007] Gildis`s pet kicks Sullon Zek, Mistress of Rage for 48 points of damage.
+[Mon Jan 15 21:11:53 2007] You begin casting Swarm of Decay III.
+[Mon Jan 15 21:11:53 2007] You can use the ability Swarm of Decay again in 30 minute(s) 0 seconds.
+[Mon Jan 15 21:11:53 2007] You can use the ability Swarm of Decay again in 30 minute(s) 0 seconds.
+[Mon Jan 15 21:11:53 2007] You can use the ability Swarm of Decay again in 30 minute(s) 0 seconds.
+[Mon Jan 15 21:11:53 2007] You can use the ability Swarm of Decay again in 30 minute(s) 0 seconds.
+[Mon Jan 15 21:11:53 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 74 points of damage.
+[Mon Jan 15 21:11:54 2007] Sullon Zek, Mistress of Rage begins to cast a spell.
+[Mon Jan 15 21:11:54 2007] Sullon Zek, Mistress of Rage begins to cast a spell.
+[Mon Jan 15 21:11:54 2007] You can use the ability Swarm of Decay again in 29 minute(s) 59 seconds.
+[Mon Jan 15 21:11:54 2007] You can use the ability Swarm of Decay again in 29 minute(s) 59 seconds.
+[Mon Jan 15 21:11:54 2007] You begin casting Death Peace.
+[Mon Jan 15 21:11:55 2007] You can use the ability Death Peace again in 0 minute(s) 4 seconds.
+[Mon Jan 15 21:11:55 2007] You can use the ability Death Peace again in 0 minute(s) 4 seconds.
+[Mon Jan 15 21:11:55 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 46 points of non-melee damage.
+[Mon Jan 15 21:11:55 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 46 points of damage.
+[Mon Jan 15 21:11:55 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 61 points of non-melee damage.
+[Mon Jan 15 21:11:55 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 61 points of damage.
+[Mon Jan 15 21:11:56 2007] Gildis`s pet slashes Sullon Zek, Mistress of Rage for 52 points of damage.
+[Mon Jan 15 21:11:56 2007] Sullon Zek, Mistress of Rage has taken 3594 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:11:56 2007] Sullon Zek, Mistress of Rage has taken 3096 damage from your Dread Pyre.
+[Mon Jan 15 21:11:56 2007] Sullon Zek, Mistress of Rage has taken 455 damage from your Night Fire.
+[Mon Jan 15 21:11:56 2007] Your Night Fire spell has worn off of Sullon Zek, Mistress of Rage.
+[Mon Jan 15 21:11:56 2007] Sullon Zek, Mistress of Rage has taken 474 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:11:57 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 16 points of non-melee damage.
+[Mon Jan 15 21:11:57 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 16 points of damage.
+[Mon Jan 15 21:11:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:57 2007] You begin casting Drain Life.
+[Mon Jan 15 21:11:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:57 2007] You haven't recovered yet...
+[Mon Jan 15 21:11:58 2007] Sullon Zek, Mistress of Rage goes on a RAMPAGE!
+[Mon Jan 15 21:12:00 2007] Gildis hit Sullon Zek, Mistress of Rage for 4668 points of non-melee damage.
+[Mon Jan 15 21:12:00 2007] You deliver a critical blast! (4668)
+[Mon Jan 15 21:12:00 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:12:00 2007] Gildis hit Sullon Zek, Mistress of Rage for 200 points of non-melee damage.
+[Mon Jan 15 21:12:01 2007] The mystical power fades.
+[Mon Jan 15 21:12:01 2007] You begin casting Death Peace.
+[Mon Jan 15 21:12:01 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 226 points of non-melee damage.
+[Mon Jan 15 21:12:01 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 226 points of damage.
+[Mon Jan 15 21:12:01 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 196 points of non-melee damage.
+[Mon Jan 15 21:12:01 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 196 points of damage.
+[Mon Jan 15 21:12:02 2007] Sullon Zek, Mistress of Rage has taken 1574 damage from your Ashengate Pyre Rk. II.
+[Mon Jan 15 21:12:02 2007] Your Ashengate Pyre Rk. II spell has worn off of Sullon Zek, Mistress of Rage.
+[Mon Jan 15 21:12:02 2007] Sullon Zek, Mistress of Rage has taken 1748 damage from your Dread Pyre.
+[Mon Jan 15 21:12:02 2007] Sullon Zek, Mistress of Rage has taken 786 damage from your Funeral Pyre of Kelador.
+[Mon Jan 15 21:12:02 2007] Your Funeral Pyre of Kelador spell has worn off of Sullon Zek, Mistress of Rage.
+[Mon Jan 15 21:12:03 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 151 points of non-melee damage.
+[Mon Jan 15 21:12:03 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 151 points of damage.
+[Mon Jan 15 21:12:04 2007] Moukie tells the guild, 'Sullon Zek, Mistress of Rage 39&PCT;'
+[Mon Jan 15 21:12:04 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:04 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:04 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:04 2007] You begin casting Drain Life.
+[Mon Jan 15 21:12:05 2007] The magical orbs fade.
+[Mon Jan 15 21:12:07 2007] Gildis hit Sullon Zek, Mistress of Rage for 3729 points of non-melee damage.
+[Mon Jan 15 21:12:07 2007] You deliver a critical blast! (3729)
+[Mon Jan 15 21:12:07 2007] Sullon Zek, Mistress of Rage staggers as a sinister force tugs at their soul.
+[Mon Jan 15 21:12:07 2007] You begin casting Death Peace.
+[Mon Jan 15 21:12:08 2007] Gildis`s pet hit Sullon Zek, Mistress of Rage for 301 points of non-melee damage.
+[Mon Jan 15 21:12:08 2007] Gildis`s pet hits Sullon Zek, Mistress of Rage for 301 points of damage.
+[Mon Jan 15 21:12:08 2007] You can use the ability Death Peace again in 0 minute(s) 4 seconds.
+[Mon Jan 15 21:12:08 2007] You can use the ability Death Peace again in 0 minute(s) 4 seconds.
+[Mon Jan 15 21:12:08 2007] a raging werewolf destroyer begins to cast a spell. <Curse of Misfortune>
+[Mon Jan 15 21:12:08 2007] Gildis`s pet loses confidence.
+[Mon Jan 15 21:12:08 2007] Gildis`s pet loses confidence.
+[Mon Jan 15 21:12:08 2007] Gildis`s pet loses confidence.
+[Mon Jan 15 21:12:08 2007] You feel very unlucky.
+[Mon Jan 15 21:12:08 2007] Sullon Zek, Mistress of Rage has taken 1605 damage from your Dread Pyre.
+[Mon Jan 15 21:12:08 2007] Your Dread Pyre spell has worn off of Sullon Zek, Mistress of Rage.
+[Mon Jan 15 21:12:09 2007] Zhamon tells the guild, 'summoned'
+[Mon Jan 15 21:12:10 2007] A raging werewolf destroyer is impaled by a dark arrow.
+[Mon Jan 15 21:12:10 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:11 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:11 2007] You begin casting Dread Pyre.
+[Mon Jan 15 21:12:11 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:11 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:11 2007] Gildis`s pet hit a raging werewolf destroyer for 241 points of non-melee damage.
+[Mon Jan 15 21:12:11 2007] Gildis`s pet hits a raging werewolf destroyer for 241 points of damage.
+[Mon Jan 15 21:12:11 2007] A raging werewolf destroyer is impaled by a dark arrow.
+[Mon Jan 15 21:12:11 2007] You haven't recovered yet...
+[Mon Jan 15 21:12:13 2007] Tonacer tells the guild, 'go team!!!'
+[Mon Jan 15 21:12:13 2007] Sullon Zek, Mistress of Rage's body is consumed in a burning pyre of blood.
+[Mon Jan 15 21:12:13 2007] Your Belt of the Stagnant sparkles.
+[Mon Jan 15 21:12:13 2007] a raging beholder drips fresh blood from rubbery limbs, searching for another victim.
+[Mon Jan 15 21:12:13 2007] Binro has been slain by a raging beholder!
+[Mon Jan 15 21:12:13 2007] a raging beholder executes a FLURRY of attacks on Binro's corpse!
+[Mon Jan 15 21:12:14 2007] a raging spirit begins to cast a spell. <Withering Destruction>
+[Mon Jan 15 21:12:14 2007] a raging werewolf destroyer was hit by non-melee for 95 points of damage.
+[Mon Jan 15 21:12:14 2007] A raging werewolf destroyer hits YOU for 2450 points of damage.
+[Mon Jan 15 21:12:14 2007] a raging werewolf destroyer was hit by non-melee for 95 points of damage.
+[Mon Jan 15 21:12:14 2007] A raging werewolf destroyer hits YOU for 2190 points of damage.
+[Mon Jan 15 21:12:14 2007] Sullon Zek, Mistress of Rage has taken 1538 damage from your Dread Pyre.
+[Mon Jan 15 21:12:15 2007] Quadeliya tells the raid,  'Adds at raid'
+[Mon Jan 15 21:12:15 2007] Sullon Zek, Mistress of Rage goes on a RAMPAGE!
